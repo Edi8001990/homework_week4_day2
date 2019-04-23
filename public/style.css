@@ -1,0 +1,43 @@
+
+
+body{
+  background-color: #f4f4f4;
+}
+.navigaton ul li {
+  display:inline-block;
+  padding: 20px;
+}
+
+.navigaton ul li{
+  width: 200px;
+  background-color: rgb(39, 109, 221);
+  transition: 0.5s;
+}
+
+.navigaton ul li:hover{
+box-shadow: 10px 10px 6px -4px rgba(0,0,0,0.27);
+}
+
+.nav{
+  margin:auto;
+  text-align: center;
+}
+
+
+
+a{
+  text-decoration: none;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  color:white;
+
+}
+
+
+
+.text {
+  font-family: 'Montserrat', sans-serif;
+  margin:auto;
+  text-align: center;
+}
